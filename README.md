@@ -22,4 +22,4 @@ During the course of this project, I encountered an issue wherein the minimum an
 
 # WHAT DOES IT LOOK LIKE?
 
-<img src = "/screenshots/Screenshot(273).png/">
+<img src = "/screenshots/Screenshot (273).png/">
