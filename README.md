@@ -19,3 +19,7 @@ Additionally add your API keys in the api.js file to make sure the application w
 # Problems:
 
 During the course of this project, I encountered an issue wherein the minimum and maximum temperatures for a given day in any city remained constant, irrespective of the specific day or city. I believe this discrepancy is attributable to an anomaly in the API call and anticipate that OpenWeather will promptly address and rectify this matter.
+
+# WHAT DOES IT LOOK LIKE?
+
+
